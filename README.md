@@ -4,6 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22083050&label=Profile%20views&color=0e75b6&style=flat" alt="it22083050" /> </p>
 
 ---
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🌱 I’m currently learning **JAVA**
 
@@ -11,6 +14,7 @@
 
 - ⚡ Fun fact **Call me as Rash**
 
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaween rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaween rashmika" height="40" width="50" /></a>
